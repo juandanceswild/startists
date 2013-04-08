@@ -1,0 +1,13 @@
+#container {
+	width:100%;
+	text-align: center;
+}
+
+#container p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+}
+
+#logo {
+	width: 60%;
+}
